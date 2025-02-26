@@ -1,0 +1,25 @@
+body {
+background-color: #000;
+color: #fff;
+}
+
+.ant-layout-header {
+background: #000;
+}
+
+.ant-menu {
+background: #000;
+}
+
+.ant-menu-item {
+color: #ffd700;
+}
+
+.ant-layout-content {
+background: #000;
+}
+
+.ant-layout-footer {
+background: #000;
+color: #fff;
+}
